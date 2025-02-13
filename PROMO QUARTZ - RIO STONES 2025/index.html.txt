@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <title>Promo Quartz - Rio Stones 2025</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            text-align: center;
+            background-color: #f4f4f9;
+        }
+        h1 {
+            color: #333;
+        }
+        .gallery {
+            display: flex;
+            flex-wrap: wrap;
+            justify-content: center;
+            gap: 20px;
+            padding: 20px;
+        }
+        .gallery-item {
+            border: 1px solid #ddd;
+            border-radius: 8px;
+            background-color: #fff;
+            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+            padding: 10px;
+            width: 300px;
+        }
+        .gallery-item img {
+            max-width: 100%;
+            border-radius: 8px;
+        }
+        .gallery-item h3 {
+            font-size: 18px;
+            color: #444;
+        }
+    </style>
+</head>
+<body>
+    <h1>Promo Quartz - Rio Stones 2025</h1>
+    <div class="gallery">
+        <div class="gallery-item">
+            <img src="Copa Quartz Stellar White 3CM Jumbo 130x65/Copa Quartz Stellar White 3CM Jumbo 130x65.jpg" alt="Copa Quartz Stellar White">
+            <h3>Copa Quartz Stellar White 3CM Jumbo 130x65</h3>
+        </div>
+        <div class="gallery-item">
+            <img src="Snow White 3cm Jumbo 128x63/Snow White 3cm Jumbo 128x63.jpg" alt="Snow White">
+            <h3>Snow White 3cm Jumbo 128x63</h3>
+        </div>
+        <div class="gallery-item">
+            <img src="Silestone Eternal Calacatta Gold 2CM Jumbo 128x63 and suede/Silestone Eternal Calacatta Gold 2CM Jumbo 128x63 and suede.jpg" alt="Silestone Eternal Calacatta Gold">
+            <h3>Silestone Eternal Calacatta Gold 2CM Jumbo 128x63 and suede</h3>
+        </div>
+        <div class="gallery-item">
+            <img src="Diamantee Lava 3CM Jumbo 126x63/Diamantee Lava 3CM Jumbo 126x63.jpg" alt="Diamantee Lava">
+            <h3>Diamantee Lava 3CM Jumbo 126x63</h3>
+        </div>
+        <div class="gallery-item">
+            <img src="Copa Surfaces Zuma Grey 3CM Jumbo 126x63/Copa Surfaces Zuma Grey 3CM Jumbo 126x63.jpg" alt="Copa Surfaces Zuma Grey">
+            <h3>Copa Surfaces Zuma Grey 3CM Jumbo 126x63</h3>
+        </div>
+        <div class="gallery-item">
+            <img src="Copa Surfaces Stellar Grey 3CM Jumbo 126x63/Copa Surfaces Stellar Grey 3CM Jumbo 126x63.jpg" alt="Copa Surfaces Stellar Grey">
+            <h3>Copa Surfaces Stellar Grey 3CM Jumbo 126x63</h3>
+        </div>
+        <div class="gallery-item">
+            <img src="Copa Surfaces Snow White 2CM Jumbo 126x63 and 127x64/Copa Surfaces Snow White 2CM Jumbo 126x63 and 127x64.jpg" alt="Copa Surfaces Snow White">
+            <h3>Copa Surfaces Snow White 2CM Jumbo 126x63 and 127x64</h3>
+        </div>
+        <div class="gallery-item">
+            <img src="Copa Surfaces Snow Grey 2CM Jumbo 126x63/Copa Surfaces Snow Grey 2CM Jumbo 126x63.jpg" alt="Copa Surfaces Snow Grey">
+            <h3>Copa Surfaces Snow Grey 2CM Jumbo 126x63</h3>
+        </div>
+    </div>
+</body>
+</html>
